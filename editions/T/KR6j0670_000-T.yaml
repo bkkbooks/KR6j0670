@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0670/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那經供養次第法疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1797.xml
+    old_id: T39n1797
+hash: sha256:ab88d20de040be23dfe7da0332556cc636f0b433e826446c01eed6657d4e9d4c

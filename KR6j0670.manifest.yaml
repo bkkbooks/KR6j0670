@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR6j0670/v1
+canonical_location: https://kanripo.org/bkk/KR6j0670/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大毘盧遮那經供養次第法疏
+  identifiers:
+    alt_id:
+    - T39n1797
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1797.xml
+    old_id: T39n1797
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0670_000.yaml, hash: 'sha256:ab88d20de040be23dfe7da0332556cc636f0b433e826446c01eed6657d4e9d4c'}
+  - {seq: 1, filename: KR6j0670_001.yaml, hash: 'sha256:c2521ab8a5f10befada80fff67598cb7bd2578fd6f105fa3633ce478ee8ad22e'}
+  - {seq: 2, filename: KR6j0670_002.yaml, hash: 'sha256:80b47aeba76f3e81ea1e2b4d261854433eab82cbbcbf356f496610889f765be1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0670_001.markers.yaml, hash: 'sha256:af78841273ddd49b15bb10f6c805a4c7aa4cb41807f6755f91446ea3f94400ca'}
+  - {seq: 2, role: markers, filename: assets/KR6j0670_002.markers.yaml, hash: 'sha256:a50c6208cfb6e84b269c0e81dcda5e820883dac15c32829671157edb80e44e37'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12903
+  label: '大毘盧遮那經供養次第法疏
+
+    卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-mulu-1
+    span:
+    - body
+    - 38
+    - 38
+  label: 1 供養次第法真言行學處品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-mulu-2
+    span:
+    - body
+    - 5300
+    - 5300
+  label: 2 增益守護清淨行品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 13997
+  label: '大毘盧遮那經供養次第法疏
+
+    卷下'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 供養儀式品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-2
+    span:
+    - body
+    - 7308
+    - 7308
+  label: 4 持誦法則品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-3
+    span:
+    - body
+    - 11315
+    - 11315
+  label: 5 真言事業品(下)
+  type: mulu
+  level: 1
+hash: sha256:659a641fb6f0c1075f69f3a1d8666993c1510e444d8e8a5286b212aac5ecc175
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

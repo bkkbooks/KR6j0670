@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR6j0670/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0670/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那經供養次第法疏
+  identifiers:
+    krp: KR6j0670
+    cbeta: T39n1797
+    cbeta_old_id: T39n1797
+    authorityid: CA0000650
+    json_key: T1797
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1797.xml
+    old_id: T39n1797
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0670_000-T.yaml, hash: 'sha256:ab88d20de040be23dfe7da0332556cc636f0b433e826446c01eed6657d4e9d4c'}
+  - {seq: 1, filename: KR6j0670_001-T.yaml, hash: 'sha256:8254adbdf45ee11e9032bd4cc35a619592d7eab1c36c071f3fcf947e06549663'}
+  - {seq: 2, filename: KR6j0670_002-T.yaml, hash: 'sha256:e6658f27a382e6cf95fba5e54fb73df155493545dc27389a4d0b9201ce917b13'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0670_000-T.markers.yaml, hash: 'sha256:d33e2b95213ce1c3aaa5aae694c081354a11493a049b98b8cd9bfd4c237f3755'}
+  - {seq: 1, role: markers, filename: assets/KR6j0670_001-T.markers.yaml, hash: 'sha256:3461822be20534ede6ddda2c5c5fcda0a081476a8e49a5ff9a1b5d321063f79c'}
+  - {seq: 2, role: markers, filename: assets/KR6j0670_002-T.markers.yaml, hash: 'sha256:f10e4a10778aae27db908cd4e2189458770c9612acc64253d44b257d31a6d61c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12903
+  label: '大毘盧遮那經供養次第法疏
+
+    卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-mulu-1
+    span:
+    - body
+    - 38
+    - 38
+  label: 1 供養次第法真言行學處品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0670_T_001-mulu-2
+    span:
+    - body
+    - 5300
+    - 5300
+  label: 2 增益守護清淨行品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 13997
+  label: '大毘盧遮那經供養次第法疏
+
+    卷下'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 供養儀式品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-2
+    span:
+    - body
+    - 7308
+    - 7308
+  label: 4 持誦法則品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0670_T_002-mulu-3
+    span:
+    - body
+    - 11315
+    - 11315
+  label: 5 真言事業品(下)
+  type: mulu
+  level: 1
+hash: sha256:07f8c1589cde1b83003582e88af307ab9c565f125de2f742c7f8500274db35d9
